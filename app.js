@@ -6,7 +6,7 @@ const _ = require("lodash");
 const mongoose = require("mongoose");
 
 let homeStartingContent = "Welcome to La La Land"
-let aboutContent = "have fun and type anything you want. Your will remain anonymous. Also can edit home, about and contact data";
+let aboutContent = "have fun and type anything you want. You will remain anonymous. Also can edit home, about and contact page";
 let contactContent = "0068971235687125497412564913345846ABCDEF"
 
 const app = express();
